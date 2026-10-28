@@ -11,6 +11,10 @@
   <a href="https://www.youtube.com/@TeluguSQLGuy">
     <img src="https://img.shields.io/badge/YouTube-TeluguSQLGuy-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
   </a>
+  
+  <a href="https://telugusqlguy.blogspot.com/">
+  <img src="https://img.shields.io/badge/Blogger-TeluguSQLGuy-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="TeluguSQLGuy Blogger"/>
+  </a>
 </p>
 
 ---
