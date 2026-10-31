@@ -15,6 +15,11 @@
   <a href="https://telugusqlguy.blogspot.com/">
   <img src="https://img.shields.io/badge/Blogger-TeluguSQLGuy-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="TeluguSQLGuy Blogger"/>
   </a>
+
+  <a href="https://www.linkedin.com/company/telugusqlguy">
+  <img src="https://img.shields.io/badge/LinkedIn-TeluguSQLGuy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="TeluguSQLGuy LinkedIn"/>
+  </a>
+  
 </p>
 
 ---
